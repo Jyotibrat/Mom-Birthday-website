@@ -14,7 +14,7 @@ const memories: MemoryPhoto[] = [
     id: 1,
     title: 'Meghalaya Tour',
     description: 'Exploring the breathtaking landscapes of Meghalaya, from the living root bridges to the serene waterfalls.',
-    image: '../public/Assets/Memories/Meghalaya_trip.jpg'
+    image: 'Assets/Memories/Meghalaya_trip.jpg'
   },
   {
     id: 2,
