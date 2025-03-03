@@ -20,31 +20,31 @@ const memories: MemoryPhoto[] = [
     id: 2,
     title: 'Maa with Mashi',
     description: 'A heartwarming moment captured between Maa and Mashi during a family gathering.',
-    image: '../public/Assets/Memories/Maa with Mashi.jpg'
+    image: 'Assets/Memories/Maa with Mashi.jpg'
   },
   {
     id: 3,
     title: 'Foreign Tour',
     description: 'It was a unforgettable journey to a new country, experiencing diverse cultures and stunning sights.',
-    image: '../public/Assets/Memories/Family.jpg'
+    image: 'Assets/Memories/Family.jpg'
   },
   {
     id: 4,
     title: 'Durga Puja 2k22',
     description: 'Celebrating Durga Puja with vibrant pandals, cultural performances, and delicious bhog.',
-    image: '../public/Assets/Memories/2k22 Durga Puja.jpg'
+    image: 'Assets/Memories/2k22 Durga Puja.jpg'
   },
   {
     id: 5,
     title: 'Pondicherry Tour',
     description: 'A peaceful retreat in Pondicherry, walking along the French streets and enjoying the beachside cafés.',
-    image: '../public/Assets/Memories/Pondicherry Tour.jpg'
+    image: 'Assets/Memories/Pondicherry Tour.jpg'
   },
   {
     id: 6,
     title: '17-10-2021',
     description: 'A special day filled with cherished memories, laughter, and unforgettable moments.',
-    image: '../public/Assets/Memories/17-10-2021.jpg'
+    image: 'Assets/Memories/17-10-2021.jpg'
   }
 ];
 
