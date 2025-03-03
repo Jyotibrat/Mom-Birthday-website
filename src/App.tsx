@@ -134,7 +134,7 @@ const handleHeartClick = () => {
             <div className="mb-8 flex justify-center animate-fadeIn">
               <div className="relative w-64 h-64 rounded-full overflow-hidden border-4 border-white shadow-xl hover:scale-105 transition-transform duration-300">
                 <img 
-                  src="./public/Assets/Main/Mom_Picture.png" 
+                  src="Assets/Main/Mom_Picture.png" 
                   alt="Celebrating Mom" 
                   className="w-full h-full object-cover"
                 />
@@ -205,7 +205,7 @@ const handleHeartClick = () => {
               <div className={`rounded-xl shadow-md overflow-hidden transition-transform hover:scale-105 ${darkMode ? 'bg-gray-800/70' : 'bg-white/70'} backdrop-blur-sm`}>
                 <div className="h-48 overflow-hidden">
                   <img 
-                    src="./public/Assets/Favorite Things/Gardening.jpg" 
+                    src="Assets/Favorite Things/Gardening.jpg" 
                     alt="Gardening" 
                     className="w-full h-full object-cover"
                   />
@@ -223,7 +223,7 @@ const handleHeartClick = () => {
               <div className={`rounded-xl shadow-md overflow-hidden transition-transform hover:scale-105 ${darkMode ? 'bg-gray-800/70' : 'bg-white/70'} backdrop-blur-sm`}>
                 <div className="h-48 overflow-hidden">
                   <img 
-                    src="./public/Assets/Favorite Things/Family.jpg" 
+                    src="Assets/Favorite Things/Family.jpg" 
                     alt="Family" 
                     className="w-full h-full object-cover"
                   />
@@ -241,7 +241,7 @@ const handleHeartClick = () => {
               <div className={`rounded-xl shadow-md overflow-hidden transition-transform hover:scale-105 ${darkMode ? 'bg-gray-800/70' : 'bg-white/70'} backdrop-blur-sm`}>
                 <div className="h-48 overflow-hidden">
                   <img 
-                    src="./public/Assets/Favorite Things/travel.jpg" 
+                    src="Assets/Favorite Things/travel.jpg" 
                     alt="Travel" 
                     className="w-full h-full object-cover"
                   />
