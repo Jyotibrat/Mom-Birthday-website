@@ -16,28 +16,28 @@ const memories: MemoryItem[] = [
     year: '2017',
     title: 'Foreign Tour',
     description: 'An unforgettable adventure exploring new places, making cherished memories, and celebrating life together!',
-    imageUrl: '../public/Assets/Timeline/2017.jpg'
+    imageUrl: 'Assets/Timeline/2017.jpg'
   },
   {
     id: 2,
     year: '2019',
     title: 'Shillong Tour',
     description: 'A magical trip to the hills, filled with laughter, scenic views, and the best birthday celebration ever!',
-    imageUrl: '../public/Assets/Timeline/2019.jpg'
+    imageUrl: 'Assets/Timeline/2019.jpg'
   },
   {
     id: 3,
     year: '2023',
     title: 'Indore Tour',
     description: 'A journey of flavors and fun—trying delicious street food, exploring new places, and celebrating another year of joy!',
-    imageUrl: '../public/Assets/Timeline/2023.jpg'
+    imageUrl: 'Assets/Timeline/2023.jpg'
   },
   {
     id: 4,
     year: '2025',
     title: 'Delhi Tour',
     description: 'A grand birthday getaway to the heart of the country—historic sights, shopping sprees, and a celebration fit for a superstar!',
-    imageUrl: '../public/Assets/Timeline/2025.jpg'
+    imageUrl: 'Assets/Timeline/2025.jpg'
   }
 ];
 
